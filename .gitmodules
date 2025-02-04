@@ -1,0 +1,3 @@
+[submodule "bbb"]
+	path = bbb
+	url = https://github.com/a22886/bbb
